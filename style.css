@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(35, 35, 35);
+    overflow: hidden;
+}
+p {
+    color: white;
+    font-style: normal;
+    font-size: 14px;
+}
+.title h1 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding: 1px;
+    margin: 1px;
+}
+.title h3 {
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    border: none;
+    margin: auto;
+    padding: none;
+}
+textarea {
+	width: 70%;
+	height: 15%;
+	resize: none;
+	border-radius: 5px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	border: none;
+	outline: none;
+    margin: auto;
+    padding: none;
+}
+.Box {
+	overflow: hidden;
+	width: 30%;
+	height: 45%;
+	background: rgb(27, 27, 27);
+    border-radius: 15px;
+    min-width: 350px;
+    min-height: 320px;
+}
+.button {
+	background-color: rgb(86, 7, 231);
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	margin-top: 25px;
+	width: 71%;
+	font-family: 'Abel', sans-serif;
+    border-radius: 5px;
+    display:inline-block;
+	outline: none;
+    margin: auto;
+    padding: none;
+}
