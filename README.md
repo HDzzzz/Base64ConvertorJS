@@ -9,6 +9,8 @@ This is a very simple website that allows you to "encode" or "decode" base64 str
 2. Clipboard (True | False)
 ```
 
+![Alt text](https://i.imgur.com/sGvqcqs.png "Example")
+
 ```
 Admin@hvh.site
 ```
