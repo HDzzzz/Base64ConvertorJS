@@ -57,6 +57,6 @@ const SetClipboardText = (method) => {
     }
     if (Alerts) // Simply check if alerts are enabled !
     {
-        alert("Copied value to clipboard !")
+        alert("Copied value to clipboard !") // JS alert (basic)
     }
 }
